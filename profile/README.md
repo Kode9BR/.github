@@ -40,7 +40,7 @@ Estamos prontos para atendê-lo com o compromisso e a atenção que você merece
 ### 📞 Contato
 
 - **Website:** [kode9.com.br](https://kode9.com.br)
-- **Email:** [contato@kode9.com.br](mailto://contato@kode9.com.br)
+- **Email:** [contato@kode9.com.br](mailto:contato@kode9.com.br)
 
 ---
 
