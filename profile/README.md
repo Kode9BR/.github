@@ -6,7 +6,7 @@
 
 **Soluções empresariais inovadoras que revolucionam sistemas e posicionam sua empresa na vanguarda da indústria**
 
-[🌐 Website](https://kode9.com.br) • [💬 Contato](#contato)
+[🌐 Website](https://kode9.com.br) • [💬 Contato](#-contato)
 
 </div>
 
@@ -47,5 +47,6 @@ Estamos prontos para atendê-lo com o compromisso e a atenção que você merece
 <div align="center">
 
 **Kode9** • *Inovação que transforma negócios*
+
 
 </div>
